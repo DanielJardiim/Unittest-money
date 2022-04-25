@@ -24,6 +24,9 @@ git clone https://github.com/vieiraroger/pcr-money.git
 ```
 pip install -r requirements.txt
 ```
+```
+python -m unittest -v
+```
 
 ### 🔧 Instalação
 
