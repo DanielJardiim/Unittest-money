@@ -30,9 +30,6 @@ Para obter uma cópia local em funcionamento, siga estas etapas simples.
 git clone https://github.com/DanielJardiim/Unittest-money.git
 ```
 ```
-pip install -r requirements.txt
-```
-```
 python -m unittest -v
 ```
 
