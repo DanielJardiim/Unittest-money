@@ -5,7 +5,7 @@ MONEY
 ### 🚀 Funcionalidades
 
 <p>
-PCR Money é uma biblioteca python com o objetivo de ajudar os desenvolvedores que lidam com operações de dinheiro em seus sistemas
+Money é uma biblioteca python com o objetivo de ajudar os desenvolvedores que lidam com operações de dinheiro em seus sistemas
 </p>
 
 <p>
