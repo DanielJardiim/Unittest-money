@@ -44,7 +44,7 @@ Utilizaremos o Visual Studio Code para os nossos códigos e desenvolvimento do p
 
 * [Visual Studio Code](https://code.visualstudio.com/download) 
 
-## 🎁 Ajuda sobre este projeoto
+### 🎁 Ajuda sobre este projeoto
 
 <p>
 Podem encontrar ajuda sobre este projeto no link abaixo do GitHub.
@@ -52,7 +52,7 @@ Podem encontrar ajuda sobre este projeto no link abaixo do GitHub.
 
 * [GitHub](https://github.com/vieiraroger/pcr-money.git) - Ajuda sobre o projeto
 
-## ✒️ Autores
+### ✒️ Autores
 
 * **Daniel Jardim Nunes**
 * **Daniel Coelho**
