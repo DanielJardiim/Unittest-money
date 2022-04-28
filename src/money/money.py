@@ -1,4 +1,3 @@
-from requests import get  #biblioteca que permite enviar solicitações HTTP em python. (API)
 import math
 
 class Money():
