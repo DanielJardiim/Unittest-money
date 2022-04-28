@@ -1,5 +1,5 @@
 <h1 align="center">
-DINHEIRO DE PCR
+MONEY
 </h1>
 
 ### 🚀 Funcionalidades
