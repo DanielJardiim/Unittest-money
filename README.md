@@ -19,7 +19,7 @@ Para obter uma cópia local em funcionamento, siga estas etapas simples.
 </p>
 
 ```
-git clone https://github.com/vieiraroger/pcr-money.git
+git clone https://github.com/DanielJardiim/Unittest-money.git
 ```
 ```
 pip install -r requirements.txt
